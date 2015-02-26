@@ -1,0 +1,1 @@
+{{block type="catalog/navigation" name="catalog.categories" template="catalog/navigation/category_listing.phtml"}}
